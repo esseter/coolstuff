@@ -1,0 +1,605 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"about",
+				"about-wrap"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n#backgroundBP {\n	background-color: #ffffff;\n	sdfsdf;\n	background-image: url('http://assets.tumblr.com/images/x.gif?v=1');\n}",
+			"file": "/Users/benoit.petrus/Google Drive/03-proac/tumblr/style.css",
+			"file_size": 117,
+			"file_write_time": 1468833535000000,
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/benoit.petrus/Google Drive/03-proac/sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1398,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ff8888.htm",
+			"settings":
+			{
+				"buffer_size": 106425,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/benoit.petrus/Google Drive/03-proac/tumblr/sftp-config.json",
+		"/Users/benoit.petrus/Google Drive/CORPO_CONTENT/2015/08-knowledge/01-dev/sftp-config.json",
+		"/Users/benoit.petrus/Google Drive/03-proac/tumblr/styl.css",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/sftp-config.json",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/css/style1.css",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/ffblog.sublime-project",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/css/style5.css",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/js/carousel.js",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/js/jquery.min.js",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/tmb/style.css",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/tmb/FF blog.html",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/untitled.html",
+		"/Users/benoit.petrus/Google Drive/08-ff-blog/untitled2.php",
+		"/Users/benoit.petrus/Google Drive/_2014/10-Bosideng/2-tech/1205/Deploy/index.php",
+		"/Users/benoit.petrus/Google Drive/_2015/04-Lacoste/2-tech/FlappyPong 14/lang-cn.json",
+		"/Users/benoit.petrus/Google Drive/07-lacoste/tech/Lacoste 产品型录.htm",
+		"/Users/benoit.petrus/Google Drive/_2015/04-Lacoste/2-tech/FlappyPong 14/sftp-config.json",
+		"/Users/benoit.petrus/Google Drive/_2015/04-Lacoste/2-tech/FlappyPong 10/index.php",
+		"/Users/benoit.petrus/Google Drive/_2015/04-Lacoste/2-tech/FlappyPong 10/js/main.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 8/testshare/sample.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 8/js/main.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 7/css/Icon",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 7/css/normalize.min.css",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 7/css/normalize.css",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 8/index_form.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/old/Livraison 17-05 Mathieu/FlappyPong/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/lt12.sublime-workspace",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 8/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 7/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/php/testip.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/php/testsaveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/js/main.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 7/css/main.css",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 8/testshare/jssdk.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 8/testshare/jsapi_ticket.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 8/testshare/Icon_",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 8/testshare/access_token.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/lang-cn.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/lang-en.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/index.php",
+		"/Volumes/Macintosh HD/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/testshare/jssdk.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/testshare/sample.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/testshare/access_token.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/testshare/jsapi_ticket.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 2/lang-cn.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 2/lang-en.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/instruction02@1x.gif",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 4/lang-en.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 4/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 6/css/main.css",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 4/js/main.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/lang-en.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/css/main.css",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/sprites/spritesheet-man-win.jpg",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/sprites/spritesheet-man-win@1.5x.jpg",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/sprites/spritesheet-man-jump@1x.jpg",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/sprites/spritesheet-man-win@1x.jpg",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/sprites/spritesheet-man-wait@1x.jpg",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/sprites/spritesheet-man-wait@1.5x.jpg",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/sprites/spritesheet-man-wait.jpg",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 5/img/instruction02.gif",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 4/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 4/lang-cn.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 3/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 4/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 2/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong/js/main.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-superlate/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 3/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 2/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 2/js/main.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 2/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 2/sftp-config.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-l/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong/sass/main.scss",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-21/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-21-05/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-21-05/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-l/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-l/js/main.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-superlate/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-l/css/main.css",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-l/sass/main.scss",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-l/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-21/sftp-config.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong-21/php/getTop10.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/php/saveToDb.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/css/main.css",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/main.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/Icon",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/index_share_reference.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/testshare/sample.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/index_share_debug.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/index_share_test.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/i.png",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/index.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/lang-cn.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/vendor/jssdk.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/testshare/access_token.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/testshare/Icon_",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/testshare/jssdk.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/testshare/jsapi_ticket.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/vendor/access_token.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/img/instruction01@1x.gif",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/img/instruction02.gif",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/img/instruction02@1x.gif",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/shareWX.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/vendor/jweixin-1.0.0.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/index_share.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/vendor/jquery.min.js",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/vendor/jquery.min.map",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/js/vendor/jsapi_ticket.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/testshare/sample.php",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/sftp-config.json",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/Icon",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/modals/prize.css",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 17-05 Mathieu/FlappyPong/modals/prize.html",
+		"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 16-05 Mathieu/php/getTop10.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/",
+			"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/FlappyPong 4",
+			"/Users/benoit.petrus/Google Drive/04-Lacoste/2-tech/Livraison 16-05 Mathieu",
+			"",
+			"/Users/benoit.petrus/Google Drive/_1983",
+			"/Users/benoit.petrus/Google Drive/1983",
+			"/Users/benoit.petrus/Google Drive/FFilms/Benoit/_all/1983",
+			"/Users/benoit.petrus/Desktop/Work/_git/BosidengSite",
+			"/Users/benoit.petrus/Google Drive/FFilms/Benoit/_all/1983/troch-www.susanandthomas.co.uk-c1a2817f5ba2",
+			"/Users/benoit.petrus/Google Drive/10-Bosideng/2-tech/",
+			"/Users/benoit.petrus/Google Drive/10-Bosideng/2-tech/1203/mobile",
+			"/Users/benoit.petrus/Google Drive/10-Bosideng/2-tech/1203/tpl",
+			"/Users/benoit.petrus/Desktop/Work/11-bosideng/app 2",
+			"/Users/benoit.petrus/Desktop/Work/09-porsche/wopdev"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"holog",
+			"newspost",
+			"btn-n",
+			"btn-",
+			"test",
+			"bg btn-lk",
+			"hover",
+			"ine-height: 32px;\n    font-weight: 600;\n    letter-spacing: 2.4px;\n    font-size: 9px;",
+			"BSCRIBE TO NEWS",
+			"twitterbtn",
+			"sharing",
+			"shari",
+			"shar",
+			"pointer",
+			"Twitter",
+			"twitter",
+			"poster",
+			"max-w",
+			"logo",
+			"url",
+			"news",
+			"subt",
+			"shad",
+			"sha",
+			"content-w",
+			"background-positi",
+			"logo",
+			"cdn",
+			"bod",
+			"jq",
+			"woff",
+			"k2",
+			"woff",
+			"jq",
+			"asse",
+			"min-w",
+			"kno",
+			"hover",
+			"titlec",
+			"poster",
+			"wrap",
+			"content",
+			"wrapper",
+			"style",
+			" float: left!important;",
+			"subtitle-roll",
+			"title",
+			"wraph",
+			"css",
+			"hover",
+			"wrap-h",
+			"top-wr",
+			"subtitle",
+			"about-r",
+			"top-wrap0",
+			"wrap",
+			"font-family",
+			"wraph",
+			"ffk",
+			"jque",
+			"poster",
+			"head",
+			"ffk2",
+			"background-po",
+			"posit",
+			"png",
+			"linked",
+			"wrap",
+			"test",
+			"wrap",
+			"wraph",
+			"about-roll",
+			"about-wrap",
+			"#about",
+			"about-roll",
+			"about-txt",
+			"tech",
+			"about-w",
+			"top-txt",
+			"tech",
+			"wrap0",
+			"<div class=\"top-wrap0\">",
+			"<div class=\"top-wrap\">",
+			"top-wrap",
+			"top-wrap0",
+			"top-wrap",
+			"tech &",
+			"via",
+			"header",
+			"poster",
+			"fredfar",
+			"titlec",
+			"@fred",
+			"fredfari",
+			"titlec",
+			"header",
+			".titlec",
+			"fard",
+			"txt-he",
+			"first fr",
+			"div.txt",
+			"div.text",
+			"fredfarid.c",
+			"weib",
+			"Photo",
+			"Photoset",
+			"photo img",
+			"phot",
+			"text-de",
+			"#content #newDay .post p a {\n    color: #000000;\n    text-decoration: none;\n}",
+			" propose de nombreux plats",
+			"title}",
+			"link",
+			"{T",
+			"weib",
+			"url",
+			"tw",
+			"faceb",
+			"face",
+			"url",
+			"face",
+			"border-top",
+			"border",
+			"CEBOOK SHARE / TWITTER SHARE / WEIBO / L",
+			"hover",
+			"#content #newDay .post a",
+			"a.bu",
+			"#content #newDay .post a"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"//console",
+			"//ga('send',",
+			"ff0000",
+			"5E8BD4"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/benoit.petrus/Google Drive/03-proac/tumblr/style.css",
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/benoit.petrus/Google Drive/03-proac/sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 1398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ff8888.htm",
+					"settings":
+					{
+						"buffer_size": 106425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33035,
+								33039
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11566.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.955156950673,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 152.0
+	},
+	"output.sftp":
+	{
+		"height": 153.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/benoit.petrus/Google Drive/08-ff-blog/untitled.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}

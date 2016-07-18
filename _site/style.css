@@ -1,0 +1,15 @@
+
+#backgroundBP {
+	background-color: #ffffff;
+	ssdfsffdfd;
+	background-image: url('http://assets.tumblr.com/images/x.gif?v=1');
+}
+
+#tagCloud {
+	z-index : 9  ;
+	background-color: red;
+	width : 100%;
+	display : block;
+	position : relative;
+	margin-top: 100px;
+}
